@@ -1,0 +1,27 @@
+{
+  "name": "cp2077",
+  "icon": "resources/icon.png",
+  "displayName": "Cyberpunk 2077 red theme",
+  "description": "A dark theme based on color pallete from CDPR's Cyberpunk 2077 game",
+  "galleryBanner": {
+    "color": "#bf6e7c",
+    "theme": "dark"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cyberpunk 2077 red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk 2077 red-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "ninjaqwert-2239-indie"
+}
