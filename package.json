@@ -23,5 +23,9 @@
       }
     ]
   },
-  "publisher": "ninjaqwert-2239-indie"
+  "publisher": "ninjaqwert-2239-indie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eerieA/vscode-cp2077-red-theme.git"
+  }
 }
