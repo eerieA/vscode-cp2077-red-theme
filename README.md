@@ -4,6 +4,6 @@ A dark theme based on color palette from CDPR's Cyberpunk 2077 game.
 
 ## Preview
 
-![preview image 1](https://live.staticflickr.com/65535/53735768144_a6accfa065_h.jpg)
+![preview image 1](https://live.staticflickr.com/65535/53748980540_619fbf4d2b_h.jpg)
 
-![preview image 2](https://live.staticflickr.com/65535/53735634513_63970d4290_h.jpg)
+![preview image 2](https://live.staticflickr.com/65535/53748886624_0e56eb7846_h.jpg)
