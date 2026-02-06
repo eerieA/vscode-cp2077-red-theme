@@ -4,6 +4,10 @@ All notable changes to the "cp2077" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4]
+
+- A bit more vibrant colors. I recently bought a new pro art monitor.
+
 ## [0.0.3]
 
 - Color tweaks
