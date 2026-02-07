@@ -4,10 +4,10 @@
   "displayName": "Cyberpunk 2077 red theme",
   "description": "A dark theme based on color pallete from CDPR's Cyberpunk 2077 game",
   "galleryBanner": {
-    "color": "#bf6e7c",
+    "color": "#c43d43",
     "theme": "dark"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.89.0"
   },

@@ -4,6 +4,10 @@ All notable changes to the "cp2077" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6]
+
+- Nothing in the theme itself. Just marketplace banner color.
+
 ## [0.0.5]
 
 - New status bar color. Slightly increased contrast.
